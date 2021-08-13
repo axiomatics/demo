@@ -1,0 +1,11 @@
+{
+  "user": [{
+      "id": "FR1",
+      "license": ["client qualifier"]
+    },
+    {
+      "id": "FR2",
+      "license": ["1","2"]
+    }
+  ]
+}
